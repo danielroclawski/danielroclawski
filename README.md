@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @danielroclawski
 - 👀 I’m interested in football(Manchester United), creating new website and programs
-- 🌱 I’m currently learning Python, C++,C# and JAVA
+- 🌱 I’m currently learning Python, C++,C# and Java Script
+- I like write new webpage
 
 
 <!---
